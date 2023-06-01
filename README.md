@@ -16,6 +16,14 @@ Next step will either be a stripboard design (The parts count for this is very l
 
 The kicad files currently found in the repo are more or less just training data, I am quite new to kicad so bear with me.
 
+## MIDI In Circuit
+
+Is based on [Kevin's ](https://diyelectromusic.wordpress.com/2021/02/15/midi-in-for-3-3v-microcontrollers/) 3.3V MIDI in circuit (Version 2, based on the H11L1 optocoupler)
+
+## MIDI Out Circuit
+
+Is based on the official MIDI hardware addendum for 3.3V based systems.
+
 ## Licenses
 
-Licenses will be added once something meaningful happens here.
+Software licensed under MIT License, see [software/LICENSE](software/LICENSE)
